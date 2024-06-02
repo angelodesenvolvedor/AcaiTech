@@ -35,4 +35,4 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes ferramentas 
 * **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
   
 # 📄 Licença
-- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]()
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/AcaiTech?tab=MIT-1-ov-file)
