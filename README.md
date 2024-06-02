@@ -19,9 +19,3 @@ Bem-vindo ao Açaí Tech, uma plataforma inovadora que combina a paixão pelo a�
 - Integração com formas de pagamento online.
 - Página de contato para dúvidas e pedidos personalizados.
 - Responsividade para acesso em dispositivos móveis.
-
-Prepare-se para se deliciar com os melhores açaís da cidade, apenas um clique de distância. Junte-se a nós nesta jornada única de sabores e tecnologia!
-
----
-
-Espero que isso te ajude a começar seu projeto! Se precisar de mais alguma coisa, estou aqui para ajudar.
