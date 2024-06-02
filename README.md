@@ -1,6 +1,3 @@
-Claro, aqui está uma sugestão para o nome e introdução do projeto:
-
----
 
 **Nome do Projeto: Açaí Tech - A Melhor Experiência de Açaí Online**
 
