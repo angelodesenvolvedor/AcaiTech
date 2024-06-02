@@ -31,3 +31,8 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes ferramentas 
 5. ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): Biblioteca JavaScript para simplificar a manipulação do DOM e interações com o usuário.
 6. ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white): Como ambiente de desenvolvimento integrado (IDE) para escrever, editar e testar o código.
 
+# 👷 Autor
+* **Angelo Silvano** - *Front-End Developer* - [angelodesenvolvedor](https://github.com/angelodesenvolvedor)
+  
+# 📄 Licença
+- Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]()
