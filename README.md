@@ -1,7 +1,7 @@
 
-**Açaí Tech**
+# Açaí Tech #
 
-🔥 **Introdução:**
+# 🔥Introdução: # 
 
 Bem-vindo ao Açaí Tech, uma plataforma inovadora que combina a paixão pelo açaí com tecnologia de ponta. Nossa missão é proporcionar a melhor experiência de compra de açaí online, oferecendo uma ampla variedade de produtos de alta qualidade e conveniência para nossos clientes.
 
