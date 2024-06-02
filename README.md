@@ -22,16 +22,12 @@
   
 # 📦 Tecnologias Usadas:
 
-Para o desenvolvimento deste projeto fictício, foram utilizadas as seguintes ferramentas e tecnologias:
+Para o desenvolvimento deste projeto, foram utilizadas as seguintes ferramentas e tecnologias:
 
 1. HTML5: Para a estruturação e marcação do conteúdo das páginas web.
 2. CSS3: Para a estilização e design visual das páginas web.
-3. Bootstrap 4: Para o desenvolvimento responsivo e criação de layouts modernos.
+3. ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white): Para o desenvolvimento responsivo e criação de layouts modernos.
 4. JavaScript: Para adicionar interatividade e funcionalidades dinâmicas ao site.
-5. jQuery: Biblioteca JavaScript para simplificar a manipulação do DOM e interações com o usuário.
-6. Git e GitHub: Para controle de versionamento do código e hospedagem do projeto.
-7. Visual Studio Code: Como ambiente de desenvolvimento integrado (IDE) para escrever, editar e testar o código.
+5. ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): Biblioteca JavaScript para simplificar a manipulação do DOM e interações com o usuário.
+6. ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white): Como ambiente de desenvolvimento integrado (IDE) para escrever, editar e testar o código.
 
-Essas ferramentas foram escolhidas para criar um site moderno, responsivo e atraente, proporcionando uma experiência agradável aos usuários.
-
-Se tiver alguma dúvida sobre alguma dessas tecnologias ou precisar de mais informações, estou à disposição para ajudar!
