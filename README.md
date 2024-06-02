@@ -1,5 +1,5 @@
 
-**Nome do Projeto: Açaí Tech - A Melhor Experiência de Açaí Online**
+**Açaí Tech**
 
 🔥 **Introdução:**
 
