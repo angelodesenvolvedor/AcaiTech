@@ -3,7 +3,7 @@
 
 # 🔥Introdução: # 
 
-* Bem-vindo ao AcaiTech, um projeto fictício que combina a paixão pelo acai com tecnologia de ponta. Nossa ideia é proporcionar a melhor experiência de compra de acai online, oferecendo uma variedade de produtos de alta qualidade e conveniência para nossos clientes.
+ Bem-vindo ao AcaiTech, um projeto fictício que combina a paixão pelo acai com tecnologia de ponta. Nossa ideia é proporcionar a melhor experiência de compra de acai online, oferecendo uma variedade de produtos de alta qualidade e conveniência para nossos clientes.
 
 ℹ️ **Objetivos do Projeto:**
 
