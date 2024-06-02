@@ -24,10 +24,10 @@
 
 Para o desenvolvimento deste projeto, foram utilizadas as seguintes ferramentas e tecnologias:
 
-1. HTML5: Para a estruturação e marcação do conteúdo das páginas web.
-2. CSS3: Para a estilização e design visual das páginas web.
+1. ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white): Para a estruturação e marcação do conteúdo das páginas web.
+2. ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white): Para a estilização e design visual das páginas web.
 3. ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white): Para o desenvolvimento responsivo e criação de layouts modernos.
-4. JavaScript: Para adicionar interatividade e funcionalidades dinâmicas ao site.
+4. ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E): Para adicionar interatividade e funcionalidades dinâmicas ao site.
 5. ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white): Biblioteca JavaScript para simplificar a manipulação do DOM e interações com o usuário.
 6. ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white): Como ambiente de desenvolvimento integrado (IDE) para escrever, editar e testar o código.
 
